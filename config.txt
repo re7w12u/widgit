@@ -1,3 +1,4 @@
 some configurations that were checked after init
 need to pull thsi file down
 adding some additional configurations
+found a couple of more configure taht are needed
